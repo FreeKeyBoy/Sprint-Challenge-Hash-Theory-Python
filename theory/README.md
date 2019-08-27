@@ -75,3 +75,4 @@ A     B     C      carry   sum
 ```
 * SUM = (A ⊕ B) ⊕ C
 * CARRY = A ∧ B ∨ C(A ⊕ B)
+ 
